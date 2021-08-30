@@ -1,4 +1,7 @@
 # Tiki-Ai
+
+Live here: https://share.streamlit.io/babycommando/tiki-ai/main/app.py
+
 A GTP-J based god-like text autocomplete entity with the powers of the polynesian Tiki God.
 <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tiki-totem-native-tribal-volcano-with-moon-sleeping-sentinel-after-robb-hamel-r55-arturo-ramirez.jpg">
 <pre>
